@@ -1,9 +1,7 @@
 {
     "package": {
       "dependencies": {
-        "@material-ui/core": "^4.11.0",
-        "@material-ui/icons": "^4.9.1",
-        "plop": "^2.7.4"
+        "web-vitals": "^0.2.4"
       },
       "scripts": {
           "gen": "plop"
@@ -11,6 +9,11 @@
       "eslintConfig": {
         "extends": ["react-app", "plugin:jsx-a11y/recommended"],
         "plugins": ["jsx-a11y"]
+      },
+      "devDependencies": {
+        "@material-ui/core": "^4.11.0",
+        "@material-ui/icons": "^4.9.1",
+        "plop": "^2.7.4"
       }
     }
   }
