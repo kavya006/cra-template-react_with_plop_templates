@@ -1,0 +1,27 @@
+{
+    "name": "cra-template-react_with_plop_templates",
+    "version": "1.1.0",
+    "keywords": [
+      "react",
+      "create-react-app",
+      "template",
+      "plop"
+    ],
+    "description": "The template for Create React App with plop templates.",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/facebook/create-react-app.git",
+      "directory": "cra-template-react_with_plop_templates"
+    },
+    "license": "MIT",
+    "engines": {
+      "node": ">=10"
+    },
+    "bugs": {
+      "url": "https://github.com/facebook/create-react-app/issues"
+    },
+    "files": [
+      "template",
+      "template.json"
+    ]
+  }
