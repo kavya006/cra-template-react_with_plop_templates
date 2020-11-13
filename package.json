@@ -10,7 +10,7 @@
     "description": "The template for Create React App with plop templates.",
     "repository": {
       "type": "git",
-      "url": "https://github.com/facebook/create-react-app.git",
+      "url": "https://github.com/kavya006/cra-template-react_with_plop_templates",
       "directory": "cra-template-react_with_plop_templates"
     },
     "license": "MIT",
@@ -18,7 +18,7 @@
       "node": ">=10"
     },
     "bugs": {
-      "url": "https://github.com/facebook/create-react-app/issues"
+      "url": "https://github.com/kavya006/cra-template-react_with_plop_templates/issues"
     },
     "files": [
       "template",
