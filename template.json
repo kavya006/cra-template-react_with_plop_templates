@@ -1,7 +1,9 @@
 {
     "package": {
       "dependencies": {
-        "web-vitals": "^0.2.4"
+        "web-vitals": "^0.2.4",
+        "react-router": "*",
+        "react-router-dom": "*"
       },
       "scripts": {
           "gen": "plop"
