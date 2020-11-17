@@ -5,14 +5,6 @@
     ```
         create-react-app [your-app-name] --template file:.\[path\to\this\template\]cra-template-react_with_plop_templates
     ```
-    
-or 
-
-- run the following command directly
-    ```
-        create-react-app [your-app-name] --template https://github.com/kavya006/cra-template-react_with_plop_templates
-    ```
-
 
 # Using plop 
 
